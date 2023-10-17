@@ -1,0 +1,14 @@
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Servidor (VB)\Aplicacion Socket Servidor (VB)\bin\Debug\net6.0\Aplicacion Socket Servidor (VB).exe
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Servidor (VB)\Aplicacion Socket Servidor (VB)\bin\Debug\net6.0\Aplicacion Socket Servidor (VB).deps.json
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Servidor (VB)\Aplicacion Socket Servidor (VB)\bin\Debug\net6.0\Aplicacion Socket Servidor (VB).runtimeconfig.json
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Servidor (VB)\Aplicacion Socket Servidor (VB)\bin\Debug\net6.0\Aplicacion Socket Servidor (VB).dll
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Servidor (VB)\Aplicacion Socket Servidor (VB)\bin\Debug\net6.0\Aplicacion Socket Servidor (VB).pdb
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Servidor (VB)\Aplicacion Socket Servidor (VB)\obj\Debug\net6.0\Aplicacion Socket Servidor (VB).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Servidor (VB)\Aplicacion Socket Servidor (VB)\obj\Debug\net6.0\Aplicacion Socket Servidor (VB).AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Servidor (VB)\Aplicacion Socket Servidor (VB)\obj\Debug\net6.0\Aplicacion Socket Servidor (VB).AssemblyInfo.vb
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Servidor (VB)\Aplicacion Socket Servidor (VB)\obj\Debug\net6.0\Aplicacion Socket Servidor (VB).vbproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Servidor (VB)\Aplicacion Socket Servidor (VB)\obj\Debug\net6.0\Aplicacion Socket Servidor (VB).dll
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Servidor (VB)\Aplicacion Socket Servidor (VB)\obj\Debug\net6.0\refint\Aplicacion Socket Servidor (VB).dll
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Servidor (VB)\Aplicacion Socket Servidor (VB)\obj\Debug\net6.0\Aplicacion Socket Servidor (VB).pdb
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Servidor (VB)\Aplicacion Socket Servidor (VB)\obj\Debug\net6.0\Aplicacion Socket Servidor (VB).genruntimeconfig.cache
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Servidor (VB)\Aplicacion Socket Servidor (VB)\obj\Debug\net6.0\ref\Aplicacion Socket Servidor (VB).dll
